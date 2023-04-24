@@ -1,0 +1,12 @@
+0	:beginclass NumberToWordExample1 
+1	:beginfunc main 
+2	:a`2=2
+3	:if a`3<4 goto 5
+4	:goto 8
+5	:_t0=a`3+int 1
+6	:a`3=_t0
+7	:goto 10
+8	:_t1=a`3+int a`3
+9	:a`3=_t1
+10	:endfunc 
+11	:endclass 

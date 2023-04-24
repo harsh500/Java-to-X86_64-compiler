@@ -1,0 +1,28 @@
+1. Import* removed
+2. Try catch remove
+3. Annotation removes
+4. Typeidentifier is same as identifiers
+5. Interfaces removed
+6. Removed Exceptions (Throws)
+7. Removed InstanceInitializer
+8. Removed ModularCompilationUnit
+9. Added static to Constructor Modifier
+10. Changed "Expression" in ArgumentList to "VariableInitializer" 
+11. Removed CONTINUE IDENTIFIER SEMICOLON from ContinueStatement
+12. ExpressionName -> Name
+13. Skipped LambdaExpression for now
+14. Skipped Patterns for now
+15. Skipped CastExpression for now
+16. Classorinterfacetype -> ClassType
+17. Commented ( Expression ) from PrimaryNoNewArray
+18. In the ArrayInitializer we have not allowed a comma followed by nothing
+19. Removed TypeArguments and similar
+20. removed yield statement (it is used in switch statements)
+
+MILESTONE 2
+
+- 3AC code for class declarations
+
+Seg Fault in 3D arrays (maybe due to parser)
+
+

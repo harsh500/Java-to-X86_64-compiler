@@ -1,0 +1,1274 @@
+---test6
+Curr class declared as: test6!
+line = 1	:endclass 0
+it = printnum
+test6_printnum.3acuuuuuuu
+line: beginfunc printnum 
+x = printnum
+test6_printnum
+the line is test6,0
+string to int
+fill var returned
+pos = 19
+Declaring local vars******************************************
+read csv 1
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1tmp size = 0
+insert arg calleds
+reavched th
+looking for test6::printnum::this
+insert ags ret
+file opened!
+cnt = 1
+line: 2	:print 3
+print 3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+3 heree var name
+looking for test6::printnum::3
+3 in genMove
+identify called
+movq	$3, %r10
+movq	$0, %rax
+movq	$printfmt, %rdi
+movq	%r10, %rsi
+call printf
+ret
+size is 6
+done
+printing funccode
+
+
+.globl test6_printnum
+test6_printnum:
+pushq %rbp
+movq %rsp, %rbp
+subq $16, %rsp
+movq	%rdi, -8(%rbp)
+movq	$3, %r10
+movq	$0, %rax
+movq	$printfmt, %rdi
+movq	%r10, %rsi
+call printf
+funccode size: 11
+cnt = 2
+line: 3	:return 1
+return 1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+1 in genMove
+identify called
+movq	$1, %rax
+ret
+size is 11
+done
+printing funccode
+
+
+.globl test6_printnum
+test6_printnum:
+pushq %rbp
+movq %rsp, %rbp
+subq $16, %rsp
+movq	%rdi, -8(%rbp)
+movq	$3, %r10
+movq	$0, %rax
+movq	$printfmt, %rdi
+movq	%r10, %rsi
+call printf
+movq	$1, %rax
+funccode size: 12
+cnt = 3
+line: 4	:endfunc 
+endfunc 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+it = printchar
+test6_printchar.3acuuuuuuu
+line: beginfunc printchar 
+x = printchar
+test6_printchar
+the line is test6,0
+string to int
+fill var returned
+pos = 20
+Declaring local vars******************************************
+read csv 1
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1tmp size = 0
+insert arg calleds
+reavched th
+looking for test6::printchar::this
+insert ags ret
+file opened!
+cnt = 1
+line: 6	:print 4
+print 4
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+4 heree var name
+looking for test6::printchar::4
+4 in genMove
+identify called
+movq	$4, %r10
+movq	$0, %rax
+movq	$printfmt, %rdi
+movq	%r10, %rsi
+call printf
+ret
+size is 6
+done
+printing funccode
+
+
+.globl test6_printchar
+test6_printchar:
+pushq %rbp
+movq %rsp, %rbp
+subq $16, %rsp
+movq	%rdi, -8(%rbp)
+movq	$4, %r10
+movq	$0, %rax
+movq	$printfmt, %rdi
+movq	%r10, %rsi
+call printf
+funccode size: 11
+cnt = 2
+line: 7	:return 2
+return 2
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+2 in genMove
+identify called
+movq	$2, %rax
+ret
+size is 11
+done
+printing funccode
+
+
+.globl test6_printchar
+test6_printchar:
+pushq %rbp
+movq %rsp, %rbp
+subq $16, %rsp
+movq	%rdi, -8(%rbp)
+movq	$4, %r10
+movq	$0, %rax
+movq	$printfmt, %rdi
+movq	%r10, %rsi
+call printf
+movq	$2, %rax
+funccode size: 12
+cnt = 3
+line: 8	:endfunc 
+endfunc 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+it = printdouble
+test6_printdouble.3acuuuuuuu
+line: beginfunc printdouble 
+x = printdouble
+test6_printdouble
+the line is test6,0
+string to int
+fill var returned
+pos = 22
+Declaring local vars******************************************
+read csv 1
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1tmp size = 0
+insert arg calleds
+reavched th
+looking for test6::printdouble::this
+insert ags ret
+file opened!
+cnt = 1
+line: 10	:print 1
+print 1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+1 heree var name
+looking for test6::printdouble::1
+1 in genMove
+identify called
+movq	$1, %r10
+movq	$0, %rax
+movq	$printfmt, %rdi
+movq	%r10, %rsi
+call printf
+ret
+size is 6
+done
+printing funccode
+
+
+.globl test6_printdouble
+test6_printdouble:
+pushq %rbp
+movq %rsp, %rbp
+subq $16, %rsp
+movq	%rdi, -8(%rbp)
+movq	$1, %r10
+movq	$0, %rax
+movq	$printfmt, %rdi
+movq	%r10, %rsi
+call printf
+funccode size: 11
+cnt = 2
+line: 11	:return 3
+return 3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+3 in genMove
+identify called
+movq	$3, %rax
+ret
+size is 11
+done
+printing funccode
+
+
+.globl test6_printdouble
+test6_printdouble:
+pushq %rbp
+movq %rsp, %rbp
+subq $16, %rsp
+movq	%rdi, -8(%rbp)
+movq	$1, %r10
+movq	$0, %rax
+movq	$printfmt, %rdi
+movq	%r10, %rsi
+call printf
+movq	$3, %rax
+funccode size: 12
+cnt = 3
+line: 12	:endfunc 
+endfunc 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+it = main
+test6_main.3acuuuuuuu
+line: beginfunc main 
+x = main
+test6_main
+the line is test6,6
+string to int
+fill var returned
+pos = 15
+Declaring local vars******************************************
+read csv 1
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1tmp size = 6
+insert arg calleds
+reavched th
+looking for test6::main::this
+insert ags ret
+file opened!
+cnt = 1
+line: 14	:_t0=call printchar
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@2num of arguments = 0
+%rax in genMove
+looking for test6::main::_t0
+cnt = 2
+line: 15	:if _t0<3 goto 23
+if _t0<3 goto 23
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+if found
+_t0 var 1 3
+_t0 in genMove
+looking for test6::main::_t0
+y = _t0
+3 in genMove
+jl .L23
+use
+identify called
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+ret
+size is 8
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+funccode size: 13
+cnt = 3
+line: 16	:goto 17
+goto 17
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+use
+identify called
+jmp .L17
+ret
+size is 13
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+funccode size: 14
+cnt = 4
+line: 17	:_t1=call printnum
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@2num of arguments = 0
+%rax in genMove
+looking for test6::main::_t1
+cnt = 5
+line: 18	:if _t1>2 goto 23
+if _t1>2 goto 23
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+if found
+_t1 var 1 2
+_t1 in genMove
+looking for test6::main::_t1
+y = _t1
+2 in genMove
+jg .L23
+use
+identify called
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+ret
+size is 17
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+.L17:
+call test6_printnum
+movq	%rax, -16(%rbp)
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+funccode size: 22
+cnt = 6
+line: 19	:goto 20
+goto 20
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+use
+identify called
+jmp .L20
+ret
+size is 22
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+.L17:
+call test6_printnum
+movq	%rax, -16(%rbp)
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L20
+funccode size: 23
+cnt = 7
+line: 20	:_t2=call printdouble
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@2num of arguments = 0
+%rax in genMove
+looking for test6::main::_t2
+cnt = 8
+line: 21	:if _t2>1 goto 23
+if _t2>1 goto 23
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+if found
+_t2 var 1 1
+_t2 in genMove
+looking for test6::main::_t2
+y = _t2
+1 in genMove
+jg .L23
+use
+identify called
+movq	-24(%rbp), %rax
+movq	$1, %rcx
+.L21:
+cmpq	%rcx, %rax
+jg .L23
+ret
+size is 26
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+.L17:
+call test6_printnum
+movq	%rax, -16(%rbp)
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L20
+.L20:
+call test6_printdouble
+movq	%rax, -24(%rbp)
+movq	-24(%rbp), %rax
+movq	$1, %rcx
+.L21:
+cmpq	%rcx, %rax
+jg .L23
+funccode size: 31
+cnt = 9
+line: 22	:goto 25
+goto 25
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+use
+identify called
+jmp .L25
+ret
+size is 31
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+.L17:
+call test6_printnum
+movq	%rax, -16(%rbp)
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L20
+.L20:
+call test6_printdouble
+movq	%rax, -24(%rbp)
+movq	-24(%rbp), %rax
+movq	$1, %rcx
+.L21:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L25
+funccode size: 32
+cnt = 10
+line: 23	:return 1
+return 1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+1 in genMove
+identify called
+.L23:
+movq	$1, %rax
+ret
+size is 32
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+.L17:
+call test6_printnum
+movq	%rax, -16(%rbp)
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L20
+.L20:
+call test6_printdouble
+movq	%rax, -24(%rbp)
+movq	-24(%rbp), %rax
+movq	$1, %rcx
+.L21:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L25
+.L23:
+movq	$1, %rax
+funccode size: 34
+cnt = 11
+line: 24	:goto 35
+goto 35
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+use
+identify called
+jmp .L35
+ret
+size is 34
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+.L17:
+call test6_printnum
+movq	%rax, -16(%rbp)
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L20
+.L20:
+call test6_printdouble
+movq	%rax, -24(%rbp)
+movq	-24(%rbp), %rax
+movq	$1, %rcx
+.L21:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L25
+.L23:
+movq	$1, %rax
+jmp .L35
+funccode size: 35
+cnt = 12
+line: 25	:_t3=call printchar
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@2num of arguments = 0
+%rax in genMove
+looking for test6::main::_t3
+cnt = 13
+line: 26	:if _t3<3 goto 31
+if _t3<3 goto 31
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+if found
+_t3 var 1 3
+_t3 in genMove
+looking for test6::main::_t3
+y = _t3
+3 in genMove
+jl .L31
+use
+identify called
+movq	-32(%rbp), %rax
+movq	$3, %rcx
+.L26:
+cmpq	%rcx, %rax
+jl .L31
+ret
+size is 38
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+.L17:
+call test6_printnum
+movq	%rax, -16(%rbp)
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L20
+.L20:
+call test6_printdouble
+movq	%rax, -24(%rbp)
+movq	-24(%rbp), %rax
+movq	$1, %rcx
+.L21:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L25
+.L23:
+movq	$1, %rax
+jmp .L35
+.L25:
+call test6_printchar
+movq	%rax, -32(%rbp)
+movq	-32(%rbp), %rax
+movq	$3, %rcx
+.L26:
+cmpq	%rcx, %rax
+jl .L31
+funccode size: 43
+cnt = 14
+line: 27	:goto 28
+goto 28
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+use
+identify called
+jmp .L28
+ret
+size is 43
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+.L17:
+call test6_printnum
+movq	%rax, -16(%rbp)
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L20
+.L20:
+call test6_printdouble
+movq	%rax, -24(%rbp)
+movq	-24(%rbp), %rax
+movq	$1, %rcx
+.L21:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L25
+.L23:
+movq	$1, %rax
+jmp .L35
+.L25:
+call test6_printchar
+movq	%rax, -32(%rbp)
+movq	-32(%rbp), %rax
+movq	$3, %rcx
+.L26:
+cmpq	%rcx, %rax
+jl .L31
+jmp .L28
+funccode size: 44
+cnt = 15
+line: 28	:_t4=call printnum
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@2num of arguments = 0
+%rax in genMove
+looking for test6::main::_t4
+cnt = 16
+line: 29	:if _t4>2 goto 31
+if _t4>2 goto 31
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+if found
+_t4 var 1 2
+_t4 in genMove
+looking for test6::main::_t4
+y = _t4
+2 in genMove
+jg .L31
+use
+identify called
+movq	-40(%rbp), %rax
+movq	$2, %rcx
+.L29:
+cmpq	%rcx, %rax
+jg .L31
+ret
+size is 47
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+.L17:
+call test6_printnum
+movq	%rax, -16(%rbp)
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L20
+.L20:
+call test6_printdouble
+movq	%rax, -24(%rbp)
+movq	-24(%rbp), %rax
+movq	$1, %rcx
+.L21:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L25
+.L23:
+movq	$1, %rax
+jmp .L35
+.L25:
+call test6_printchar
+movq	%rax, -32(%rbp)
+movq	-32(%rbp), %rax
+movq	$3, %rcx
+.L26:
+cmpq	%rcx, %rax
+jl .L31
+jmp .L28
+.L28:
+call test6_printnum
+movq	%rax, -40(%rbp)
+movq	-40(%rbp), %rax
+movq	$2, %rcx
+.L29:
+cmpq	%rcx, %rax
+jg .L31
+funccode size: 52
+cnt = 17
+line: 30	:goto 35
+goto 35
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+use
+identify called
+jmp .L35
+ret
+size is 52
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+.L17:
+call test6_printnum
+movq	%rax, -16(%rbp)
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L20
+.L20:
+call test6_printdouble
+movq	%rax, -24(%rbp)
+movq	-24(%rbp), %rax
+movq	$1, %rcx
+.L21:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L25
+.L23:
+movq	$1, %rax
+jmp .L35
+.L25:
+call test6_printchar
+movq	%rax, -32(%rbp)
+movq	-32(%rbp), %rax
+movq	$3, %rcx
+.L26:
+cmpq	%rcx, %rax
+jl .L31
+jmp .L28
+.L28:
+call test6_printnum
+movq	%rax, -40(%rbp)
+movq	-40(%rbp), %rax
+movq	$2, %rcx
+.L29:
+cmpq	%rcx, %rax
+jg .L31
+jmp .L35
+funccode size: 53
+cnt = 18
+line: 31	:_t5=call printdouble
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@2num of arguments = 0
+%rax in genMove
+looking for test6::main::_t5
+cnt = 19
+line: 32	:if _t5>1 goto 34
+if _t5>1 goto 34
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+if found
+_t5 var 1 1
+_t5 in genMove
+looking for test6::main::_t5
+y = _t5
+1 in genMove
+jg .L34
+use
+identify called
+movq	-48(%rbp), %rax
+movq	$1, %rcx
+.L32:
+cmpq	%rcx, %rax
+jg .L34
+ret
+size is 56
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+.L17:
+call test6_printnum
+movq	%rax, -16(%rbp)
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L20
+.L20:
+call test6_printdouble
+movq	%rax, -24(%rbp)
+movq	-24(%rbp), %rax
+movq	$1, %rcx
+.L21:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L25
+.L23:
+movq	$1, %rax
+jmp .L35
+.L25:
+call test6_printchar
+movq	%rax, -32(%rbp)
+movq	-32(%rbp), %rax
+movq	$3, %rcx
+.L26:
+cmpq	%rcx, %rax
+jl .L31
+jmp .L28
+.L28:
+call test6_printnum
+movq	%rax, -40(%rbp)
+movq	-40(%rbp), %rax
+movq	$2, %rcx
+.L29:
+cmpq	%rcx, %rax
+jg .L31
+jmp .L35
+.L31:
+call test6_printdouble
+movq	%rax, -48(%rbp)
+movq	-48(%rbp), %rax
+movq	$1, %rcx
+.L32:
+cmpq	%rcx, %rax
+jg .L34
+funccode size: 61
+cnt = 20
+line: 33	:goto 35
+goto 35
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+use
+identify called
+jmp .L35
+ret
+size is 61
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+.L17:
+call test6_printnum
+movq	%rax, -16(%rbp)
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L20
+.L20:
+call test6_printdouble
+movq	%rax, -24(%rbp)
+movq	-24(%rbp), %rax
+movq	$1, %rcx
+.L21:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L25
+.L23:
+movq	$1, %rax
+jmp .L35
+.L25:
+call test6_printchar
+movq	%rax, -32(%rbp)
+movq	-32(%rbp), %rax
+movq	$3, %rcx
+.L26:
+cmpq	%rcx, %rax
+jl .L31
+jmp .L28
+.L28:
+call test6_printnum
+movq	%rax, -40(%rbp)
+movq	-40(%rbp), %rax
+movq	$2, %rcx
+.L29:
+cmpq	%rcx, %rax
+jg .L31
+jmp .L35
+.L31:
+call test6_printdouble
+movq	%rax, -48(%rbp)
+movq	-48(%rbp), %rax
+movq	$1, %rcx
+.L32:
+cmpq	%rcx, %rax
+jg .L34
+jmp .L35
+funccode size: 62
+cnt = 21
+line: 34	:return 2
+return 2
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+2 in genMove
+identify called
+.L34:
+movq	$2, %rax
+ret
+size is 62
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+.L17:
+call test6_printnum
+movq	%rax, -16(%rbp)
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L20
+.L20:
+call test6_printdouble
+movq	%rax, -24(%rbp)
+movq	-24(%rbp), %rax
+movq	$1, %rcx
+.L21:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L25
+.L23:
+movq	$1, %rax
+jmp .L35
+.L25:
+call test6_printchar
+movq	%rax, -32(%rbp)
+movq	-32(%rbp), %rax
+movq	$3, %rcx
+.L26:
+cmpq	%rcx, %rax
+jl .L31
+jmp .L28
+.L28:
+call test6_printnum
+movq	%rax, -40(%rbp)
+movq	-40(%rbp), %rax
+movq	$2, %rcx
+.L29:
+cmpq	%rcx, %rax
+jg .L31
+jmp .L35
+.L31:
+call test6_printdouble
+movq	%rax, -48(%rbp)
+movq	-48(%rbp), %rax
+movq	$1, %rcx
+.L32:
+cmpq	%rcx, %rax
+jg .L34
+jmp .L35
+.L34:
+movq	$2, %rax
+funccode size: 64
+cnt = 22
+line: 35	:return 5
+return 5
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hey there
+hey
+5 in genMove
+identify called
+.L35:
+movq	$5, %rax
+ret
+size is 64
+done
+printing funccode
+
+
+.globl main
+main:
+pushq %rbp
+movq %rsp, %rbp
+subq $64, %rsp
+movq	%rdi, -56(%rbp)
+call test6_printchar
+movq	%rax, -8(%rbp)
+movq	-8(%rbp), %rax
+movq	$3, %rcx
+.L15:
+cmpq	%rcx, %rax
+jl .L23
+jmp .L17
+.L17:
+call test6_printnum
+movq	%rax, -16(%rbp)
+movq	-16(%rbp), %rax
+movq	$2, %rcx
+.L18:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L20
+.L20:
+call test6_printdouble
+movq	%rax, -24(%rbp)
+movq	-24(%rbp), %rax
+movq	$1, %rcx
+.L21:
+cmpq	%rcx, %rax
+jg .L23
+jmp .L25
+.L23:
+movq	$1, %rax
+jmp .L35
+.L25:
+call test6_printchar
+movq	%rax, -32(%rbp)
+movq	-32(%rbp), %rax
+movq	$3, %rcx
+.L26:
+cmpq	%rcx, %rax
+jl .L31
+jmp .L28
+.L28:
+call test6_printnum
+movq	%rax, -40(%rbp)
+movq	-40(%rbp), %rax
+movq	$2, %rcx
+.L29:
+cmpq	%rcx, %rax
+jg .L31
+jmp .L35
+.L31:
+call test6_printdouble
+movq	%rax, -48(%rbp)
+movq	-48(%rbp), %rax
+movq	$1, %rcx
+.L32:
+cmpq	%rcx, %rax
+jg .L34
+jmp .L35
+.L34:
+movq	$2, %rax
+.L35:
+movq	$5, %rax
+funccode size: 66
+cnt = 23
+line: 36	:endfunc 
+endfunc 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
